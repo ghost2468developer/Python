@@ -17,11 +17,7 @@ jkhsA ;L;SAKJDSA AD
                         D; '
                         ;   D; 
                             D;WDL   D   DQ
-                                'D;SALD D;  D;
-                                SA;DASKDID  
-                                D
-                                SD
-                                SA;D
+
                                 SAD;DASD
                                 DSADASSADSSAD
                                 SA
