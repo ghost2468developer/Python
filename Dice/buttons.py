@@ -28,7 +28,7 @@ class Button:
             self.active
             and self.xmin <= p.getX() <= self.xmax
             and self.ymin <= p.getY() <= self.ymax
-        )  # use return when you change an already set variable/variables
+        )  # use return when you change an already set variable/variables  
 
     def getLabel(self):
         """label of the string"""
