@@ -3,7 +3,7 @@ from tkinter import messagebox
 import logging
 import time
 
-# Set up logging
+# Set up loggingb  
 logging.basicConfig(filename='binary_search.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 def binary_search(arr, low, high, x):
